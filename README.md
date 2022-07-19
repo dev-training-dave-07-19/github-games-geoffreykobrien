@@ -8,4 +8,4 @@ You can play the game at: https://dev-training-dave-07-19.github.io/github-games
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-wee woo wee woo
+wee woo
